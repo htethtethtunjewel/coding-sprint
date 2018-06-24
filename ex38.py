@@ -8,7 +8,7 @@ while len(stuff)!= 10:
     stuff.append(next_one)
     print(f"There are {len(stuff)}items now.")
     print(f"There are {len(stuff)} items now.")
-print ("There we go : ", stuff)
+print("There we go : ", stuff)
 print("Let's do some things with stuff.")
 print(stuff[1])
 print(stuff[-1])
