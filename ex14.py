@@ -1,5 +1,5 @@
 from sys import argv
-script , user_name = argv
+script, user_name = argv
 pmp = '>>'
 print(f"Hi {user_name},I'm the {script} script.")
 print("I'd like to ask you a few question")
